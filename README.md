@@ -7,10 +7,11 @@ car game using Visual Basic language
 # ABSTRACT
 * To create a car game using VB.net.
 * In this car game there are 3 lanes.
-* User can change the gear of the car to control the speed of the car.
-* Use has 3 lives. 
-* Provide obstacles to help the user to dodge obstacles in a perfect way. 
-* Provide a score to help the user to calculate their skill.
+* User can change the gear of the car using up/down array keys to control the speed of the car.
+* User can move to left/right using left/right array keys 
+* User has 3 lives. 
+* Provided obstacles to help the user to dodge obstacles in a perfect way. 
+* Provided score to help the user to calculate their skill.
 
 # CREDITS
 :white_check_mark:**Vignesh.R**
